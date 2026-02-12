@@ -3,5 +3,5 @@ Please enter student ID\n2.Select valid excel file format.\n3.This is a progress
 Do not rename or reorder columns.
 Enter the question text in column A.
 Provide four options per question.
-Correct answer index starts from 0.
+Correct answer index starts from 1.
 Image URLs are optional (Google Drive)
